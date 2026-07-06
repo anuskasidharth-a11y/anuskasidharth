@@ -74,8 +74,6 @@ This GitHub serves as my professional portfolio, showcasing practical recruitmen
 
 📁 Resume
 
-*(More recruitment projects will be added as they are completed.)*
-
 ---
 
 # Currently Learning
