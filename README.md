@@ -1,16 +1,20 @@
 # 👋 Hi, I'm Anuska Sidharth
 
-## Talent Acquisition Professional
+## Talent Acquisition Specialist | Technical Recruiter | Full Cycle Recruitment
 
-**Full Cycle Recruitment | AI Powered Recruiting | Workday HCM | Power BI**
+**Full Cycle Recruitment | Stakeholder Management | Talent Intelligence | AI Powered Recruiting**
 
 ---
 
 # About Me
 
-Talent Acquisition Professional with 3+ years of experience in Full Cycle Recruitment and End to End Recruitment. I use modern sourcing strategies, AI tools, Boolean Search, and data driven hiring practices to identify and engage top talent.
+Talent Acquisition Specialist with 3+ years of experience in full cycle recruitment for technical hiring within enterprise environments.
 
-This GitHub is my professional portfolio, showcasing my learning, certifications, recruitment resources, and practical work.
+My experience extends beyond sourcing candidates. I partner with hiring managers to understand business requirements, develop targeted sourcing strategies, manage recruitment pipelines, and drive hiring outcomes through effective stakeholder collaboration.
+
+I enjoy solving hiring challenges by identifying bottlenecks in the recruitment process, improving candidate quality, and leveraging AI powered recruiting, Boolean Search, recruitment analytics, and data driven decision making to build efficient hiring strategies.
+
+This GitHub serves as my professional portfolio, showcasing practical recruitment projects, certifications, sourcing frameworks, and resources that reflect my approach to modern talent acquisition.
 
 ---
 
@@ -18,71 +22,59 @@ This GitHub is my professional portfolio, showcasing my learning, certifications
 
 ✅ Full Cycle Recruitment
 
-✅ End to End Recruitment
-
 ✅ Stakeholder Management
 
 ✅ Candidate Sourcing
-
-✅ Boolean Search
 
 ✅ Talent Mapping
 
 ✅ Market Mapping
 
-✅ Employer Branding
-
-✅ AI Powered Recruitment
+✅ Boolean Search
 
 ✅ Recruitment Analytics
 
+✅ AI Powered Recruiting
+
+✅ Employer Branding
+
 ---
 
-# Tools
+# Tools & Technologies
 
 • Workday HCM
 
-• Microsoft Power BI
+• Power BI
 
 • Microsoft Excel
 
-• Claude
+• Generative AI Tools (ChatGPT, Claude)
 
 • Applicant Tracking Systems (ATS)
-
-• ChatGPT
 
 ---
 
 # Professional Certifications
 
-✔ Google AI Certification
-
 ✔ Workday HCM for Business Users
 
-✔ Data Visualization through Power BI
+✔ Google AI Essentials
 
 ✔ Generative AI for Talent Acquisition
+
+✔ Data Visualization through Power BI
 
 ---
 
 # Featured Repositories
 
-📁 Resume
+📁 Boolean Search Library
 
 📁 Professional Certifications
 
-📁 Boolean Search Library
+📁 Resume
 
-📁 Recruitment Templates
-
-📁 AI for Talent Acquisition
-
-📁 Recruitment Dashboards
-
-📁 Talent Mapping & Market Research
-
-📁 Recruiter's Playbook
+*(More recruitment projects will be added as they are completed.)*
 
 ---
 
@@ -90,7 +82,11 @@ This GitHub is my professional portfolio, showcasing my learning, certifications
 
 • Advanced Boolean Search
 
-• Advance Talent Sourcing
+• Advanced Talent Sourcing
+
+• Recruitment Analytics
+
+• AI Applications in Talent Acquisition
 
 ---
 
@@ -98,4 +94,4 @@ This GitHub is my professional portfolio, showcasing my learning, certifications
 
 **LinkedIn**
 
-https://www.linkedin.com/in/anushka-sidharth-0632b91b4
+www.linkedin.com/in/anushka-sidharth-0632b91b4
