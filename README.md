@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ChatGPT%20Image%20Jul%206,%202026,%2004_24_57%20PM.png" alt="GitHub Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Anuska Sidharth
 
 ## Talent Acquisition Specialist | Technical Recruiter | Full Cycle Recruitment
