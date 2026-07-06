@@ -2,80 +2,100 @@
 
 ## Talent Acquisition Professional
 
-Full Cycle Recruitment | End to End Recruitment | AI Powered Recruiting | Stakeholder Management
+**Full Cycle Recruitment | AI Powered Recruiting | Workday HCM | Power BI**
 
 ---
 
-## About Me
+# About Me
 
-I am a Talent Acquisition Professional with 3+ years of experience in Full Cycle Recruitment and End to End Recruitment. I enjoy solving hiring challenges through strategic sourcing, stakeholder management, talent mapping, market mapping, Boolean Search, employer branding, and AI powered recruitment.
+Talent Acquisition Professional with 3+ years of experience in Full Cycle Recruitment and End to End Recruitment. I use modern sourcing strategies, AI tools, Boolean Search, and data driven hiring practices to identify and engage top talent.
 
-This GitHub profile serves as my professional portfolio where I document my learning, showcase my work, and demonstrate my skills in modern Talent Acquisition.
-
----
-
-## Core Expertise
-
-- Full Cycle Recruitment
-- End to End Recruitment
-- Candidate Sourcing
-- Boolean Search
-- Talent Mapping
-- Market Mapping
-- Stakeholder Management
-- Employer Branding
-- Recruitment Analytics
-- AI Powered Recruitment
-- Candidate Experience
+This GitHub is my professional portfolio, showcasing my learning, certifications, recruitment resources, and practical work.
 
 ---
 
-## Tools & Technologies
+# Core Skills
 
-- Workday HCM
-- Microsoft Power BI
-- Microsoft Excel
-- Claude
-- Applicant Tracking Systems (ATS)
-- ChatGPT
-- Gemini
+✅ Full Cycle Recruitment
 
----
+✅ End to End Recruitment
 
-## Professional Certifications
+✅ Stakeholder Management
 
-- Google AI Certification
-- Workday HCM for Business Users
-- Data Visualization through Power BI
-- Generative AI for Talent Acquisition
+✅ Candidate Sourcing
 
----
+✅ Boolean Search
 
-## Portfolio
+✅ Talent Mapping
 
-This portfolio will include:
+✅ Market Mapping
 
-- Resume
-- Professional Certifications
-- Boolean Search Library
-- Recruitment Templates
-- AI for Recruitment
-- Recruitment Dashboards
-- Talent Mapping & Market Research
-- Recruiter's Playbook
+✅ Employer Branding
+
+✅ AI Powered Recruitment
+
+✅ Recruitment Analytics
 
 ---
 
-## Currently Learning
+# Tools
 
-- Advanced Boolean Search
-- Advance Talent Sourcing
-  
+• Workday HCM
+
+• Microsoft Power BI
+
+• Microsoft Excel
+
+• Claude
+
+• Applicant Tracking Systems (ATS)
+
+• ChatGPT
 
 ---
 
-## Connect With Me
+# Professional Certifications
+
+✔ Google AI Certification
+
+✔ Workday HCM for Business Users
+
+✔ Data Visualization through Power BI
+
+✔ Generative AI for Talent Acquisition
+
+---
+
+# Featured Repositories
+
+📁 Resume
+
+📁 Professional Certifications
+
+📁 Boolean Search Library
+
+📁 Recruitment Templates
+
+📁 AI for Talent Acquisition
+
+📁 Recruitment Dashboards
+
+📁 Talent Mapping & Market Research
+
+📁 Recruiter's Playbook
+
+---
+
+# Currently Learning
+
+• Advanced Boolean Search
+
+• Advance Talent Sourcing
+
+---
+
+# Connect With Me
 
 **LinkedIn**
 
-www.linkedin.com/in/anushka-sidharth-0632b91b4
+https://www.linkedin.com/in/anushka-sidharth-0632b91b4
