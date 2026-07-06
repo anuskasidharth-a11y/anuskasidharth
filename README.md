@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%20Jul%206,%202026,%2004_24_57%20PM.png" alt="GitHub Banner" width="100%">
+  <img src="banner.png" alt="GitHub Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Anuska Sidharth
