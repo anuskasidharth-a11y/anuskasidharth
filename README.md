@@ -1,16 +1,23 @@
 # 👋 Hi, I'm Anuska Sidharth
 
-## Talent Acquisition Professional | Full Cycle Recruitment | End to End Recruitment | AI Powered Recruiting
+## Talent Acquisition Professional
 
-Talent Acquisition Professional with 3+ years of experience in Full Cycle Recruitment and End to End Recruitment. Passionate about building high quality talent pipelines through strategic sourcing, stakeholder management, talent mapping, market mapping, Boolean Search, employer branding, and AI powered recruitment.
+Full Cycle Recruitment | End to End Recruitment | AI Powered Recruiting
 
 ---
 
-## 💼 Core Expertise
+## About Me
+
+I am a Talent Acquisition Professional with 3+ years of experience in Full Cycle Recruitment and End to End Recruitment. I enjoy solving hiring challenges through strategic sourcing, stakeholder management, talent mapping, market mapping, Boolean Search, employer branding, and AI powered recruitment.
+
+This GitHub profile serves as my professional portfolio where I document my learning, showcase my work, and demonstrate my skills in modern Talent Acquisition.
+
+---
+
+## Core Expertise
 
 - Full Cycle Recruitment
 - End to End Recruitment
-- IT & Non IT Hiring
 - Candidate Sourcing
 - Boolean Search
 - Talent Mapping
@@ -23,55 +30,52 @@ Talent Acquisition Professional with 3+ years of experience in Full Cycle Recrui
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Workday HCM
-- Microsoft Excel
 - Microsoft Power BI
-- ChatGPT
+- Microsoft Excel
 - Claude
-- Google Gemini
 - Applicant Tracking Systems (ATS)
+- ChatGPT
+- Gemini
 
 ---
 
-## 📜 Certifications
+## Professional Certifications
 
-- Google AI Professional Certification
+- Google AI Certification
 - Workday HCM for Business Users
-- Data Analysis and Visualization with Power BI
+- Data Visualization through Power BI
 - Generative AI for Talent Acquisition
 
 ---
 
-## 📂 What You'll Find Here
+## Portfolio
 
-This GitHub portfolio showcases my learning journey and practical work in:
+This portfolio will include:
 
-- Recruitment Templates
+- Resume
+- Professional Certifications
 - Boolean Search Library
+- Recruitment Templates
 - AI for Recruitment
 - Recruitment Dashboards
 - Talent Mapping & Market Research
-- Professional Certifications
+- Recruiter's Playbook
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Boolean Search
-- AI in Talent Acquisition
-- Recruitment Automation
-- Strategic Talent Acquisition
+- Advance Talent Sourcing
+  
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-**LinkedIn:** https://www.linkedin.com/in/anushka-sidharth-0632b91b4
+**LinkedIn**
 
-**Email:** anuskasidharth@gmail.com
-
----
-
-⭐ Thank you for visiting my GitHub portfolio.
+www.linkedin.com/in/anushka-sidharth-0632b91b4
