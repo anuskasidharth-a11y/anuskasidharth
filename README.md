@@ -2,7 +2,7 @@
 
 ## Talent Acquisition Professional
 
-Full Cycle Recruitment | End to End Recruitment | AI Powered Recruiting
+Full Cycle Recruitment | End to End Recruitment | AI Powered Recruiting | Stakeholder Management
 
 ---
 
